@@ -1,0 +1,21 @@
+#body {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+.btn-dark {
+    background-color: #343a40;
+    border-color: #343a40;
+}
